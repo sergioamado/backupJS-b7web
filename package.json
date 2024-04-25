@@ -10,5 +10,8 @@
   "license": "ISC",
   "dependencies": {
     "save-dev": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.7"
   }
 }
