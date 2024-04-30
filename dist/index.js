@@ -1,4 +1,7 @@
 "use strict";
-let nome = 'Sergio';
-let idade = 35;
-console.log('Meu nome é ${nome} e minha idade é ${idade} em anos');
+const Operacoes = require('./Operacoes');
+let n1 = 10;
+let n2 = 2;
+console.log(`SOMA: ${Operacoes.somar(n1, n2)} `);
+console.log(`SUBTRAÇÃO: ${Operacoes.subtrair(n1, n2)} `);
+console.log(`MULTIPLICAÇÃO: ${Operacoes.multiplicar(n1, n2)}`);

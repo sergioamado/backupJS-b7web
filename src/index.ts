@@ -1,5 +1,12 @@
-let nome: string = 'Sergio';
-let idade: number = 35;
+const Operacoes = require('./Operacoes');
 
-console.log('Meu nome é ${nome} e minha idade é ${idade} em anos');
+
+let n1: number = 10;
+let n2: number = 2;
+
+
+console.log(`SOMA: ${Operacoes.somar(n1,n2)} `);
+console.log(`SUBTRAÇÃO: ${Operacoes.subtrair(n1,n2)} `);
+console.log(`MULTIPLICAÇÃO: ${Operacoes.multiplicar(n1,n2)}`);
+
 
