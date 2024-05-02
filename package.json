@@ -11,9 +11,11 @@
   "author": "Sergio Santana",
   "license": "ISC",
   "dependencies": {
-    "save-dev": "^0.0.1-security"
+    "save-dev": "^0.0.1-security",
+    "validator": "^13.11.0"
   },
   "devDependencies": {
-    "@types/node": "^20.12.7"
+    "@types/node": "^20.12.7",
+    "@types/validator": "^13.11.9"
   }
 }
