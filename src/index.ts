@@ -8,7 +8,7 @@ import validator from 'validator';
 //Operacoes.somar;
 
 
-
+//
 // let n1: number = 10;
 // let n2: number = 2;
 
