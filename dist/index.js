@@ -7,6 +7,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 const validator_1 = __importDefault(require("validator"));
 //import Operacoes from './Operacoes';  //importação por default
 //Operacoes.somar;
+//
 // let n1: number = 10;
 // let n2: number = 2;
 // console.log(`Versão: ${versao}`);
